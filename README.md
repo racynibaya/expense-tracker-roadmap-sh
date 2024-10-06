@@ -2,6 +2,9 @@
 
 A simple Node.js CLI application for tracking your daily expenses. You can add expenses, view a list of all expenses, summarize total expenses, and delete expenses by ID.
 
+Expense tracker cli app. More info can be found here:
+https://github.com/racynibaya/expense-tracker-roadmap-sh.git
+
 ## Installation
 
 1. Clone the repository:
